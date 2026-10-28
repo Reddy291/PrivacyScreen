@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Privacy Screen</string>
+    <string name="tile_label">Privacy screen</string>
+    <string name="channel_name">Privacy screen</string>
+    <string name="notif_title">Privacy screen is ON</string>
+    <string name="notif_text">People beside you can\'t easily read your screen</string>
+    <string name="notif_text_face">Face guard is watching for onlookers</string>
+    <string name="turn_off">Turn off</string>
+    <string name="hidden_message">Screen hidden\nSomeone else is looking</string>
+    <string name="face_paused">Face guard paused. Open the Privacy Screen app to turn it back on.</string>
+    <string name="need_overlay">Allow \"Display over other apps\" / \"Floating windows\" first</string>
+</resources>
